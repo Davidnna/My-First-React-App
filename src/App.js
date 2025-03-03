@@ -13,6 +13,7 @@ const loadData = (options) => {
 
 const App = (props) => {
   let [photos, setPhotos] = useState([]);
+  // CHALLENGE: Change the query to one of your interests
   let [query, setQuery] = useState("AI");  // Default search query
   let [numPhotos, setNumPhotos] = useState(20); // Default number of photos
   let [error, setError] = useState(""); // ✅ Error state

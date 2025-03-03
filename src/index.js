@@ -19,6 +19,7 @@ const reportWebVitals = onPerfEntry => {
 // Mount the App component
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+  // CHALLENGE: add your own name and emoji to the website
   <React.StrictMode>
     <App name="David" emoji="✈️" />
   </React.StrictMode>
