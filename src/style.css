@@ -12,14 +12,14 @@
     
     /* COLORS */
     --blood: #8a0303;
-    --slime: #228b22;
-    --gloom: #2b363b;
+    --slime: #228B22;
+    --gloom: #2B363B;
     --candy: #ee698e;
-    --purple: #7b1e7a;
-    --blue: #2176ae;
-    --olive: #a6c48a;
-    --royal: #0a1045;
-    --lilac: #b8aed6;
+    --purple: #7B1E7A;
+    --blue: #2176AE;
+    --olive: #A6C48A;    
+    --royal: #0A1045;
+    --lilac: #B8AED6;
     --snow: #f4f9e9;
     
     /* FONTS */
@@ -32,6 +32,7 @@
     --funky-font: "MuseoModerno";
     --sweet-font: "Lobster";
 }
+
 
 body {
     /* CHALLENGE: change the background to one you like */

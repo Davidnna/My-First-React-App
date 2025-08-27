@@ -52,7 +52,7 @@ label {
     font-weight: bold;
 }
 
-#number {
+#number-div {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,7 +65,6 @@ label {
 }
 
 .img {
-
     box-sizing: border-box;
     width: 100% !important;
     height: auto !important;
