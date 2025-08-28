@@ -57,7 +57,7 @@ const App = (props) => {
 
 			{/* ✅ Search Form */}
 			<form onSubmit={searchPhotos}>
-				<input name="query" type="text" ref={queryInput} placeholder="eg: AI" aria-label="Search for images..." />
+				<input name="query" type="text" ref={queryInput} placeholder="Search for images... eg: AI" aria-label="Search for images..." />
 				<button type="submit">Search</button>
 			</form>
 
